@@ -1,7 +1,7 @@
 .corpo{
-       background-color: aqua;
+       background-color: rgb(241, 241, 241);
        text-align: center; 
-       color: black;
-       border: solid yellow;
+       color: rgb(231, 15, 15);
+       border: solid rgb(250, 250, 28);
        
 }

@@ -1,7 +1,8 @@
 .corpo{
        background-color: rgb(0, 10, 102);
        text-align: center; 
-       color: rgb(241, 2, 2);
-       border: solid rgb(70, 1, 1), 252);
-       background-color: #0083ED;
+       color: rgb(255, 255, 255);
+       border: solid rgb(165, 24, 24), 252);
+       background-color: ##0083ED
+       ;
 } 
